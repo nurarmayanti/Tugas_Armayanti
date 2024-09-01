@@ -1,5 +1,5 @@
-# Belajar uplod repo ke github
+# Belajar Upload ke GitHub
 
-ini adalah repo pertama saya
+Ini adalah repo pertama saya di GitHub. Di sini, saya mulai belajar bagaimana cara mengunggah proyek ke GitHub, memahami konsep repository, commit, dan version control secara umum.
 
-Develop by :Nama anda
+Develop by: Nur Aramayanti
